@@ -1,8 +1,7 @@
 
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
 
-Highlights:
+Key Features:
 
 - 🌟 Tech stack: PERN + TailwindCSS + Daisy UI
 - 🚀 Rate Limiting & Bot Detection
